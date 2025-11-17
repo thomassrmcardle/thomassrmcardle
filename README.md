@@ -5,4 +5,11 @@ I'm Thomas, an aspring developer, who started just coding as a hobby and hopes t
 **Current Project:** Playerbase
 
 ***
+## What I've worked on (and finished):
+Here are some of my top projects...
+* **Guide** (WIP) - a free to use resource for students to study
+* **Crypt** - a score based password analysis program
++ More *(This is only whats on Github)*
+
+***
 Thanks for checking my profile out! I hope you find some use in my free-to-use projects or even just enjoy seeing what i've made. It's all free to have a look at so take as long as you need. Stay amazing :)
