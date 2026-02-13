@@ -9,8 +9,7 @@ Long term, my ambition is to create some kind of business, developing utility so
 ***
 ## What I've worked on (and finished):
 Here are some of my top projects...
-* **Guide** (WIP) - a free to use resource for students to study
-* **Crypt** - a score based password analysis program
+* **Foodi** (WIP) - a mobile app to help users cooking food.
 + Other things *(This is only what's on Github)*
 
 ***
