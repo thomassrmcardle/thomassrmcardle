@@ -4,12 +4,12 @@ I'm Thomas, an aspring developer, who started just coding as a hobby and hopes t
 
 Long term, my ambition is to create some kind of business, developing utility software to help people.
 
-**Current Project:** Playerbase
+**Current Project:** Cherub
 
 ***
 ## What I've worked on (and finished):
 Here are some of my top projects...
-* **Foodi** (WIP) - a mobile app to help users cooking food.
+* **Cherub** (WIP) - a mobile app to help users with cooking recipes.
 + Other things *(This is only what's on Github)*
 
 ***
